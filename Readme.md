@@ -28,4 +28,3 @@ A personal portfolio website built using **HTML**, **Bootstrap**, and **CSS** to
 ## Author
 
 **Udara Jayawardena**  
-Software Engineer | Software Engineer
