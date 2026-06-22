@@ -1,6 +1,6 @@
 **Udara Jayawardena Portfolio Template**
 
-![Udara Jayawardena-Portfolio](https://github.com/UdaraJayawardena/UdaraJayawardena.github.io/assests/images/preview/homepage_ss.png)
+![Udara Jayawardena-Portfolio](https://raw.githubusercontent.com/UdaraJayawardena/UdaraJayawardena.github.io/dev/assests/images/preview/homepage_ss.png)
 
 <!-- ![Screenshot](/assests/images/preview/homepage_ss.png) -->
 
